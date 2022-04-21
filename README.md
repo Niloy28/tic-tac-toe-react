@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React TicTacToe Tutorial (TypeScript Edition)
+
+This project is [this tutorial](https://reactjs.org/tutorial/tutorial.html) but implemented with TypeScript.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `yarn create react-app *app-name* --template --typescript`
 
 ## Available Scripts
 
